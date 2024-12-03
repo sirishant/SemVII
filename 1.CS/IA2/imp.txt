@@ -1,0 +1,10 @@
+Some important points to note
+Difference between Symmetric and Assymetric Cryptography
+How hashing works with diagram
+Working of digital signatures
+Working of digital certificates
+Firewall and its types
+VPN and its types
+Working of VPN
+Stateful vs stateless firewalls
+Cryptographic Attacks
