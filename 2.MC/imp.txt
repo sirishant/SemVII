@@ -1,0 +1,34 @@
+Unit-1 :
+1.Explain the following with all the features
+	1.Cordless telephone
+	2.PACS
+2.Explain the following
+	a.Reserved channel scheme
+	b.Queing priority scheme
+	c.Sub rating scheme.
+3.Compare and contrast between AMPS and GSM
+
+Unit-2:
+1.GSM security architecture
+2.HLR failure restoration
+3.VLR failure restoration
+
+Unit-3:
+1.WAP simulation environment
+2.User agent profile
+3.Caching model
+
+Additional topics
+
+Unit-3 refer text book
+
+Wap simulation environment two diagrams
+
+User agent profile and caring model theory
+
+Unit-5(Only security issues in mobile computing)
+
+Unit-4:please prepare all the topics from the text book.
+
+https://books.google.co.in/books?id=r_cPHw04I0QC&printsec=frontcover#v=onepage&q&f=false
+
